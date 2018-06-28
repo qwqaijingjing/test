@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function(x,y) {
-  write.table(x, y)
+  write.table(x,y)
 }
